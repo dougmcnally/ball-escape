@@ -6,6 +6,7 @@
 * [libGDX Wiki](https://libgdx.com/wiki/)
 * [Box2D Documentation](https://libgdx.com/wiki/extensions/physics/box2d)
 * [Box2DLights Documentation](https://github.com/libgdx/box2dlights/wiki)
+* [noise4j procedural map generation library](https://github.com/czyzby/noise4j)
 
 #### Design
 * [Tiled Level Editor](https://www.mapeditor.org/)
