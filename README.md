@@ -6,7 +6,6 @@
 * [libGDX Wiki](https://libgdx.com/wiki/)
 * [Box2D Documentation](https://libgdx.com/wiki/extensions/physics/box2d)
 * [Box2DLights Documentation](https://github.com/libgdx/box2dlights/wiki)
-* 
 
 #### Design
 * [Tiled Level Editor](https://www.mapeditor.org/)
