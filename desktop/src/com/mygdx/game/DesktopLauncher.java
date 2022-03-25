@@ -12,6 +12,6 @@ public class DesktopLauncher {
 
 		config.setWindowedMode(960, 640);
 		// config.setFullScreenMode(Lwjgl3ApplicationConfiguration.getDisplayMode());
-		new Lwjgl3Application(new BallEscape(), config);
+		new Lwjgl3Application(new SuperKoalio(), config);
 	}
 }
